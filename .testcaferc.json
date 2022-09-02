@@ -1,0 +1,5 @@
+{
+  "browsers": ["chrome:headless"],
+  "src": "src/tests/*.testcafe.ts",
+  "speed": 1
+}
